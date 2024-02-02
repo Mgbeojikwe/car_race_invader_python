@@ -2,6 +2,8 @@ This game is built with the aid of the tkinter library inorder to improve user i
 To run this source code on linux OS, type:
         $ sudo python3 main.py
 
+A video sample of the game is found at https://github.com/Mgbeojikwe/car_race_invader_python/blob/main/car_race_shooter-2024-02-02_02.48.45.mp4 ; click the "View raw" link to download the video
+
 This source code is built with the aid of three derived classes viz: "CarPart", "Enemy" and "Game" present in the car_part.py, enemy.py and game.py modules respectively. The three classes are linked by composition and are  discussed below:
 
 
